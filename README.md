@@ -1,4 +1,4 @@
-Hi, Ray here, budding software engineer, hoping to create real world use projects with your assistance.
+Hi, Ray here, fullstack software engineer, hoping to create real world use projects with your assistance.
 How to reach me? raymondamenah@gmail.com
 
 <!---
