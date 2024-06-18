@@ -5,10 +5,10 @@
 
 <img src='https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.1.1561607411.1685402176&semt=robertav1_2_sidr' align='right' width='400'/>
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, NextJs and Firebase, my interests also lie in the realm of AI and ML. When i'm not pushing commits i'm probably reading my favorite manga, cycling or scrolling through documentations of new and existing Tech
+    I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some languages and technologies I enjoy working with include, Typescript, Golang, NextJs, Nodejs my interests also lie in the realm of microservices and distributed systems. When i'm not pushing commits i'm probably reading my favorite manga, cycling or scrolling through documentations of new and existing Tech
 <br>
 <br>
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Golang**
 <br>
 <div align="center">
 
@@ -67,15 +67,8 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-  </a>
-
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-  <a href="http://jupyter.org/" target="_blank" rel="noreferrer">
-      <img  alt="Jupyter" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
   </a>
 </div>
 <br>
@@ -95,14 +88,14 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Saibot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaymondAmenah&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20)
+![Saibot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rayamenah&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RaymondAmenah&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=Rayamenah&count_private=true&theme=algolia&border_radius=20)
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaymondAmenah&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayamenah&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
